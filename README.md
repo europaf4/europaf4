@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @europaf4.
 - 👀 I’m interested in any kind of technology.
-- 🌱 I’m currently learning ciber security.
 - 📫 How to reach me: europaf4@hotmail.com
 
 <!---
